@@ -5,6 +5,6 @@ resources:
   - ../../base
 images:
   - name: 897154406243.dkr.ecr.us-east-1.amazonaws.com/collabsup-backend
-    newTag: d61c324
+    newTag: 870cfc6
   - name: 897154406243.dkr.ecr.us-east-1.amazonaws.com/collabsup-frontend
-    newTag: d61c324
+    newTag: 870cfc6
